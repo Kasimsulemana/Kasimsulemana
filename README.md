@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Code. Create. Conquer. 🚀 Hi, I'm Kasim Major Sulemana, a Full-stack developer | Cybersecurity enthusiast | Graphic designer | Blockchain builder ⚒️. Building dynamic web apps, secure systems, stunning designs, and decentralized solutions. Let's innovate together! 💻🔒🎨 *Languages & Tools:* JavaScript, Python, Solidity, HTML/CSS, React, Node.js</h1>
+<h1 align="center">Hi 👋, 🚀 I'm Kasim Major Sulemana, a Full-stack developer | Graphic designer | Blockchain builder ⚒️. Building dynamic web apps, secure systems, stunning designs, and decentralized solutions. Let's innovate together! 💻🔒🎨 *Languages & Tools:* JavaScript, Python, Solidity, HTML/CSS, React, Node.js</h1>
 <h3 align="center">Code. Create. Conquer. 🚀 Full-stack developer | Cybersecurity enthusiast | Graphic designer | Blockchain builder ⚒️ Building dynamic web apps, secure systems, stunning designs, and decentralized solutions. Let's innovate together!</h3>
 
 - 🔭 I’m currently working on [EduFunding – Decentralized platform for educational support](https://github.com/EduFunding/SmartContracts)
